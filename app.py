@@ -1,5 +1,4 @@
 from openai import OpenAI
-from test_example import search_query
 from recursive4 import search_webpage_final
 
 client = OpenAI()
